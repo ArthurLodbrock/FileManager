@@ -7,11 +7,11 @@ current = 'C:\\Users\\user\\Downloads\\'
 #Extentions and folders
 spaces = [('Images', ['png', 'jpeg', 'bmp', 'tiff', 'gif', 'webp', 'svg', 'jpg', 'psd']),
           ('Documents', ['txt', 'doc', 'pdf', 'csv', 'ics', 'json', 'xlsx', 'djvu']),
-          ('Audio', ['mp3', 'wav', 'midi']),
-          ('Video', ['mp4', 'avi', 'webm']),
+          ('Audios', ['mp3', 'wav', 'midi']),
+          ('Videos', ['mp4', 'avi', 'webm']),
           ('Archive', ['zip', 'rar', 'gz', 'jar']),
           ('Programs', ['exe', 'msi']),
-          ('Android App', ['apk']),
+          ('Android Apps', ['apk']),
           ('Osu files', ['osz']),
           ('Torrents', ['torrent'])]
 
